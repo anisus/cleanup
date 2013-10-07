@@ -4,7 +4,6 @@ package cleanup
 import (
 	"container/list"
 	"errors"
-	"log"
 	"sync"
 )
 
